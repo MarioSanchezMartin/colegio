@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cambio para que de error
+=======
+modificación de alumnostxt
+>>>>>>> 61608112833116f0fbf954c926a13f41c10fe4d8
